@@ -3,6 +3,7 @@
 ## Payroll
 
 ![payrol_representation](assets/images/payroll(1).png)
+Payroll is the system a company uses to manage the money it pays to its employees.
 
 ## Problem Statement
 
