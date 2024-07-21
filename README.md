@@ -11,14 +11,18 @@ This dashboard detailed analysis of the payroll for employees for the period of 
 ### Objective
 The primary objective is to create an employee payroll system with data on employee names, hourly wages, and hours worked during the month of January. 
 
-### Instalation
-- This dataset is a subjective data that will be used for this analysis.
+### Data Sources
+- This dataset used for this analysis is a subjective dataset.
 
 ### Process
 - Step 1 : Created a subjective or quantitative dataset with the value being Name, Hour-worked, Overtime-pay, weekly-pay, Bonus, Total-pay as well as Maximum, Minimum and Average.
 
 - Step 2 : I formatted all the data into tables, making sure all the columns are in the correct formats, by correcting any errors and inconsistencies within the data.
 
-- Step 3 : I analysed the data to create meaningful insights, such as the top 10 highest goalscoring players, the top 10 highest scoring nations, etc. I did this by using a range of data analysis skills, such as VLookups, Excel Functions, and Pivot Tables.
+- Step 3 : I analysed the data to create meaningful insights, such as the maximum minimum and average wage of each employee over the period of january and overal compensation provided to employee etc. I did this by using a range of Excel Functions such as IF condition, Absolute and Relative cell referencing, SUM, MAX and AVRA function.
 
-  
+  ## Conclusion
+
+Based on the analysis, we could see the wage distribution for each employee based on the time each employee spent working for the organisation over the period of January.
+
+  
