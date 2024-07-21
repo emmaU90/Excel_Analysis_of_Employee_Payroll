@@ -19,7 +19,7 @@ The primary objective is to create an employee payroll system with data on emplo
 
 - Step 2 : I formatted all the data into tables, making sure all the columns are in the correct formats, by correcting any errors and inconsistencies within the data.
 
-- Step 3 : I analysed the data to create meaningful insights, such as the maximum minimum and average wage of each employee over the period of january and overal compensation provided to employee etc. I did this by using a range of Excel Functions such as IF condition, Absolute and Relative cell referencing, SUM, MAX and AVRA function.
+- Step 3 : I analysed the data to create meaningful insights, such as the maximum minimum and average wage of each employee over the period of january and overal compensation provided to employee etc. I did this by using a range of Excel Functions such as IF condition, Absolute and Relative cell referencing, SUM, MAX and AVRA function etc.
 
 ## Conclusion
 
