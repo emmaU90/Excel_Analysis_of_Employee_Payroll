@@ -24,6 +24,6 @@ The primary objective is to create an employee payroll system with data on emplo
 ## Conclusion
 ![payrol_representation](assets/images/Payroll.PNG)
 
-Based on the analysis, we could see the wage distribution for each employee based on the time each employee spent working for the organisation over the period of January.
+Based on the findings, we could see a detailed analysis of the payroll for employees under the employer Emmanuel Unegbu for January 2024. It includes the hours worked, overtime hours, and the total pay for each week, culminating in the total monthly pay for each employee. This helps in understanding the distribution of work hours, the effect of overtime, and the overall compensation provided to the employees for the given period.
 
   
