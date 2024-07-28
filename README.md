@@ -12,7 +12,7 @@ This dashboard detailed analysis of the payroll for employees for the period of 
 The primary objective is to create an employee payroll system with data on employee names, hourly wages, and hours worked during the month of January. 
 
 ### Data Sources
-- This dataset used for this analysis is a subjective dataset.
+- The dataset used for this analysis is a subjective dataset.
 
 ### Process
 - Step 1 : Created a subjective or quantitative dataset with the value being Name, Hour-worked, Overtime-pay, weekly-pay, Bonus, Total-pay as well as Maximum, Minimum and Average.
